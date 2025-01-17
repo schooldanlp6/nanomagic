@@ -1,4 +1,5 @@
 # nanomagic
 Some project for school....
 
-https://schooldanlp6.github.io/nanomagic
+## moved to a subtree
+https://github.com/schooldanlp6/school-projects/tree/nanomagic
